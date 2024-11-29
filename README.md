@@ -51,11 +51,7 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 - Database: MySQL hoặc Postgres DBMS.
 - Git: Clone repository.
 ### **Các bước cài đặt (setup)**:
-**1. Clone the repository**:
-      git clone https://github.com/your-repo/project.git
-      cd project
-
-**2. Cấu hình Database**:
+**1. Cấu hình Database**:
 - Vào thư mục src/main/resources/application.properties:
   
   ![config-database](https://github.com/user-attachments/assets/9dffcf26-b466-4d45-be80-edabcd1c600b)
@@ -64,15 +60,15 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
   + username: Theo username được cấu hình của bạn.
   + password: Theo password được cấu hình của bạn.
 
-**3. Build dự án**: Gõ lệnh **mvn clean install** trong command line.
+**2. Build dự án**: Gõ lệnh **mvn clean install** trong command line.
 
-**4. Khởi chạy ứng dụng**: Gõ lệnh **mvn spring-boot:run** trong command line. 
+**3. Khởi chạy ứng dụng**: Gõ lệnh **mvn spring-boot:run** trong command line. 
 
-**5. Truy cập ứng dụng**: 
+**4. Truy cập ứng dụng**: 
 - Mở trình duyệt browser, nhập đường đường dẫn http://localhost:8080/home
 - Sau khi nhập đường dẫn, được điều hướng vào giao diện trang chủ.
 
-**6. Test ứng dụng**: Chạy unit tests sử dụng Maven: **mvn **
+**5. Test ứng dụng**: Chạy unit tests sử dụng Maven: **mvn **
 
 **Lưu ý bổ sung**:
 - Tài khoản admin được khởi tạo mặc định khi khởi chạy ứng dụng:
