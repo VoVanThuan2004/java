@@ -43,7 +43,13 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 
 ## 3. Các bước để khởi chạy ứng dụng
 ### **Yêu cầu**:
-- Java IDE
+- Java Development Kit (JDK): Phiên bản 17 trở lên.
+- Database: MySQL hoặc Postgres DBMS.
+- Git: Clone repository.
+### **Các bước cài đặt (setup)**:
+**1. Clone the repository**:
+
+
 
   
 
