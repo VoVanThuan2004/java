@@ -9,7 +9,7 @@ Dự án này áp dụng các nguyên tắc, mẫu thiết kế và thực hành
 - **DRY (Don’t Repeat Yourself):** Các đoạn code được cấu trúc để tránh sự dư thừa, có khả năng tận dùng lại thông qua các tiện ích dùng .
 - **KISS (Keep It Simple, Stupid):** Thiết kế ưu tiên sự đơn giản và tránh sự phức tạp không cần thiết.
 
-### **Patterns**
+### **Mẫu thiết kế (Patterns)**
 - **Model-View-Controller (MVC):** Phân tách dữ liệu (Model), giao diện người dùng (View) và logic điều khiển (Controller).
 - **Builder Pattern:** Sử dụng để xây dựng các đối tượng phức tạp (ví dụ: đối tượng `UserResponse`).
 - **Repository Pattern:** Logic truy cập dữ liệu được trừu tượng hóa trong lớp repository.
