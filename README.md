@@ -82,6 +82,19 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 **1. Thêm product**:
 ![add-product](https://github.com/user-attachments/assets/277f3f93-1977-49e1-9650-84714a7d18c1)
 
+**2. Cập nhật product**:
+![update-product](https://github.com/user-attachments/assets/a6cf5e1b-fb8a-4f4a-b4ef-604dce46818e)
+
+**3. Xóa product**:
+![delete-product-by-id](https://github.com/user-attachments/assets/7ec42bef-51d2-4d09-aedf-5d12fc4d14aa)
+
+**4. Lấy danh sách product**:
+![get-all-product](https://github.com/user-attachments/assets/ec55ffd3-4c68-4aa5-905d-f919138eb1e7)
+
+**5. Lấy product theo id**:
+![get-product-by-id](https://github.com/user-attachments/assets/b83885ed-88ad-4581-a597-c76b3e3fcd0f)
+
+
 
 
 
