@@ -41,6 +41,10 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
   + **home**: Trong thư mục home chứa các file html về giao diện chính cho người dùng của trang web bán hàng.
 - **application.properties**: Dùng để cấu hình các thuộc tính cho ứng như liên kết đến cơ sở dữ liệu, hibernate, multipart,...
 
+## 3. Các bước để khởi chạy ứng dụng
+### **Yêu cầu**:
+- Java IDE
+
   
 
 
