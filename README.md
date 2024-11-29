@@ -14,7 +14,7 @@ Dự án này áp dụng các nguyên tắc, mẫu thiết kế và thực hành
 - **Builder Pattern:** Sử dụng để xây dựng các đối tượng phức tạp (ví dụ: đối tượng `UserResponse`).
 - **Repository Pattern:** Logic truy cập dữ liệu được trừu tượng hóa trong lớp repository.
 
-### **Thực hành tốt**
+### **Thực hành**
 - Xử lý lỗi đúng cách thông qua xử lý ngoại lệ toàn cục trong Spring Boot.
 - Xác thực đầu vào của người dùng bằng các annotation (ví dụ: `@Valid`, `@NotNull`).
 - Lưu trữ mật khẩu an toàn bằng cách sử dụng mã hóa bcrypt.
@@ -22,7 +22,11 @@ Dự án này áp dụng các nguyên tắc, mẫu thiết kế và thực hành
 
 ---
 
-## 2. Cấu trúc mã nguồn
+## 2. Sơ đồ ERD của hệ thống
+![Flowchart (3)](https://github.com/user-attachments/assets/79a41c84-1faa-4e5a-a437-0d974e1cbcb2)
+
+
+## 3. Cấu trúc mã nguồn
 
 Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dàng phân tách mối quan tâm. Các folder chính nhu sau:
 ### **src/main/java**
@@ -41,7 +45,7 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
   + **home**: Trong thư mục home chứa các file html về giao diện chính cho người dùng của trang web bán hàng.
 - **application.properties**: Dùng để cấu hình các thuộc tính cho ứng như liên kết đến cơ sở dữ liệu, hibernate, multipart,...
 
-## 3. Các bước để khởi chạy ứng dụng
+## 4. Các bước để khởi chạy ứng dụng
 ### **Yêu cầu**:
 - Java Development Kit (JDK): Phiên bản 17 trở lên.
 - Database: MySQL hoặc Postgres DBMS.
