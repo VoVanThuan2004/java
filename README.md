@@ -1,4 +1,4 @@
-# Ứng dụng Web: Hệ thống Quản lý Bán hàng
+# Ứng dụng Web: Hệ thống Quản lý Bán các thiết bị điện tử
 
 ## 1. Nguyên , Mẫu thiết kế và Thực hành phát triển phần mềm
 
