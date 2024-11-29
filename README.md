@@ -108,8 +108,18 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 **2. Cập nhật order**:
 ![update-order](https://github.com/user-attachments/assets/3bd1c5ea-23e6-4bb1-bdc2-93424a044019)
 
-**3. Xóa order theo id**
+**3. Xóa order theo id**:
 ![delete-order](https://github.com/user-attachments/assets/e86d7b7c-c25f-4856-9e61-00486c8a62c1)
+
+**4. Lấy danh sách orders**:
+![get-all-orders](https://github.com/user-attachments/assets/dbb08a92-31da-4c1f-92f3-ff4f3af0508a)
+
+**5. Lấy order theo id của orderdetail**:
+![get-orders-by-orderid](https://github.com/user-attachments/assets/db3ddd34-7258-49c7-91e7-ff36aebf7f18)
+
+**6. Lấy order theo id của user**:
+![get-orders-by-userid](https://github.com/user-attachments/assets/32296b19-9905-4ffd-a601-aff28cc44424)
+
 
 
 
