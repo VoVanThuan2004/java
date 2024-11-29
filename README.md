@@ -94,6 +94,13 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 **5. Lấy product theo id**:
 ![get-product-by-id](https://github.com/user-attachments/assets/b83885ed-88ad-4581-a597-c76b3e3fcd0f)
 
+**6. Filter product**:
+![filter-product](https://github.com/user-attachments/assets/65930ce4-b92b-4cfc-a292-d02525108156)
+
+**7. Search product**:
+![search-product](https://github.com/user-attachments/assets/c40da079-032c-43af-8d6c-93dc88a9f93f)
+
+
 
 
 
