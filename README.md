@@ -64,6 +64,18 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 
 **4. Khởi chạy ứng dụng**: Gõ lệnh **mvn spring-boot:run** trong command line. 
 
+**5. Truy cập ứng dụng**: 
+- Mở trình duyệt browser, nhập đường đường dẫn http://localhost:8080/home
+- Sau khi nhập đường dẫn, được điều hướng vào giao diện trang chủ.
+
+**6. Test ứng dụng**: Chạy unit tests sử dụng Maven: **mvn **
+
+**Lưu ý bổ sung**:
+- Tài khoản admin được khởi tạo mặc định khi khởi chạy ứng dụng:
+  + username: **admin**
+  + password: **123456**
+
+
 
 
   
