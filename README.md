@@ -80,6 +80,7 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 ## 4. Postman Snapshots về API trên ứng dụng
 ### **Product**:
 **1. Thêm product**:
+![add-product](https://github.com/user-attachments/assets/277f3f93-1977-49e1-9650-84714a7d18c1)
 
 
 
