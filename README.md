@@ -23,7 +23,7 @@ Dự án này áp dụng các nguyên tắc, mẫu thiết kế và thực hành
 ---
 
 ## 2. Sơ đồ ERD của hệ thống
-![Flowchart (3)](https://github.com/user-attachments/assets/79a41c84-1faa-4e5a-a437-0d974e1cbcb2)
+![Flowchart (4)](https://github.com/user-attachments/assets/62fa2d86-361d-4d3d-93f2-51870ff7a170)
 
 
 ## 3. Cấu trúc mã nguồn
