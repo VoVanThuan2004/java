@@ -56,9 +56,9 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
   
   ![config-database](https://github.com/user-attachments/assets/9dffcf26-b466-4d45-be80-edabcd1c600b)
 
-  Với tên database là productmanagement hoặc theo bạn cấu hình trong database.
-  username: Theo username của bạn.
-  password: Theo password của bạn.
+  + Với tên database là productmanagement hoặc theo bạn cấu hình trong database.
+  + username: Theo username được cấu hình của bạn.
+  + password: Theo password được cấu hình của bạn.
 
 
 
