@@ -53,7 +53,12 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 
 **2. Cấu hình Database**:
 - Vào thư mục src/main/resources/application.properties:
+  
   ![config-database](https://github.com/user-attachments/assets/9dffcf26-b466-4d45-be80-edabcd1c600b)
+
+  Với tên database là productmanagement hoặc theo bạn cấu hình trong database.
+  username: Theo username của bạn.
+  password: Theo password của bạn.
 
 
 
