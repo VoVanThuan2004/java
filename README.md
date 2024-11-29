@@ -77,8 +77,10 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 - Tài khoản user, có nút Register để đăng ký user.
 
 
-## 4. Snapshots về API trên ứng dụng
+## 4. Postman Snapshots về API trên ứng dụng
 ### **Product**:
+**1. Thêm product**:
+
 
 
 
