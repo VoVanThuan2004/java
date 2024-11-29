@@ -56,9 +56,12 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
   
   ![config-database](https://github.com/user-attachments/assets/9dffcf26-b466-4d45-be80-edabcd1c600b)
 
-  + Với tên database là productmanagement hoặc theo bạn cấu hình trong database.
+  + Với tên database là productmanagement hoặc sửa lại theo cấu hình của bạn trong database.
   + username: Theo username được cấu hình của bạn.
   + password: Theo password được cấu hình của bạn.
+
+**3. Build dự án**: Gõ lệnh **mvn clean install** trong command line.
+**4. Khởi chạy ứng dụng**: Gõ lệnh **mvn spring-boot:run** trong command line. 
 
 
 
