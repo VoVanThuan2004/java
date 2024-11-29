@@ -78,17 +78,17 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 
 
 ## 4. Postman Snapshots về API trên ứng dụng
-### **Product**:
+### **Products**:
 **1. Thêm product**:
 ![add-product](https://github.com/user-attachments/assets/277f3f93-1977-49e1-9650-84714a7d18c1)
 
 **2. Cập nhật product**:
 ![update-product](https://github.com/user-attachments/assets/a6cf5e1b-fb8a-4f4a-b4ef-604dce46818e)
 
-**3. Xóa product**:
+**3. Xóa product theo id**:
 ![delete-product-by-id](https://github.com/user-attachments/assets/7ec42bef-51d2-4d09-aedf-5d12fc4d14aa)
 
-**4. Lấy danh sách product**:
+**4. Lấy danh sách products**:
 ![get-all-product](https://github.com/user-attachments/assets/ec55ffd3-4c68-4aa5-905d-f919138eb1e7)
 
 **5. Lấy product theo id**:
@@ -100,6 +100,16 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 **7. Search product**:
 ![search-product](https://github.com/user-attachments/assets/c40da079-032c-43af-8d6c-93dc88a9f93f)
 
+
+### **Orders**:
+**1. Thêm order**:
+![add-order](https://github.com/user-attachments/assets/6093fb49-1662-419b-8e87-68ac30ccf519)
+
+**2. Cập nhật order**:
+![update-order](https://github.com/user-attachments/assets/3bd1c5ea-23e6-4bb1-bdc2-93424a044019)
+
+**3. Xóa order theo id**
+![delete-order](https://github.com/user-attachments/assets/e86d7b7c-c25f-4856-9e61-00486c8a62c1)
 
 
 
