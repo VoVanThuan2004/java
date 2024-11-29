@@ -48,7 +48,12 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 - Git: Clone repository.
 ### **Các bước cài đặt (setup)**:
 **1. Clone the repository**:
-![config-database](https://github.com/user-attachments/assets/126a82b3-71d3-424b-b980-1acdf31c1d78)
+      git clone https://github.com/your-repo/project.git
+      cd project
+
+**2. Cấu hình Database**:
+- Vào thư mục src/main/resources/application.properties:
+  
 
 
 
