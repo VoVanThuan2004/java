@@ -61,6 +61,7 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
   + password: Theo password được cấu hình của bạn.
 
 **3. Build dự án**: Gõ lệnh **mvn clean install** trong command line.
+
 **4. Khởi chạy ứng dụng**: Gõ lệnh **mvn spring-boot:run** trong command line. 
 
 
