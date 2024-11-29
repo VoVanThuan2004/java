@@ -25,9 +25,17 @@ Dự án này áp dụng các nguyên tắc, mẫu thiết kế và thực hành
 ## 2. Cấu trúc mã nguồn
 
 Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dàng phân tách mối quan tâm. Các folder chính nhu sau:
-### **scr/main/java**
+### **src/main/java**
 - **com.example**:
-  + **config**:
+  + **config**: Có file SecurityConfig dùng để cấu hình và cài đặt các chế bảo mật và xác thực của Spring Security.
+  + **controller**: Bao gồm các class có nhiều vụ điều hướng đến một trang html, và chứa bộ điều khiển RESTful xử lý các yêu cầu và phản hồi HTTP.
+  + **service**: Có nhiệm vụ xử lý các logic nghiệp vụ trong hệ thống và là một tầng trung gian giữa controller và repository, có nhiệm vụ tương tác với cơ sở dữ  trong repository và trả về dữ liệu cho controller.
+  + **repository**: Cho phép truy cập dữ liệu bằng cách sử dụng Spring Data JPA.
+  + **entity**: Các class sễ được ánh xạ thành các table trong cơ sở dữ liệu.
+  + **dto**: Bao gồm các đối tượng được định dạng theo cấu trúc, dùng để làm đầu vào (input) hoặc đầu ra (output) cho các hàm xử lý.
+
+### **src/main/resource**
+- **static**:
 
   
 
