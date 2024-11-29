@@ -28,14 +28,18 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 ### **src/main/java**
 - **com.example**:
   + **config**: Có file SecurityConfig dùng để cấu hình và cài đặt các chế bảo mật và xác thực của Spring Security.
-  + **controller**: Bao gồm các class có nhiều vụ điều hướng đến một trang html, và chứa bộ điều khiển RESTful xử lý các yêu cầu và phản hồi HTTP.
-  + **service**: Có nhiệm vụ xử lý các logic nghiệp vụ trong hệ thống và là một tầng trung gian giữa controller và repository, có nhiệm vụ tương tác với cơ sở dữ  trong repository và trả về dữ liệu cho controller.
+  + **controller**: Có nhiệm vụ điều hướng đến một trang html, và chứa bộ điều khiển RESTful xử lý các yêu cầu và phản hồi HTTP.
+  + **service**: Có nhiệm vụ xử lý các logic nghiệp vụ trong hệ thống và là một tầng trung gian giữa controller và repository, có nhiệm vụ tương tác với cơ sở dữ liệu trong repository và trả về dữ liệu cho controller.
   + **repository**: Cho phép truy cập dữ liệu bằng cách sử dụng Spring Data JPA.
-  + **entity**: Các class sễ được ánh xạ thành các table trong cơ sở dữ liệu.
+  + **entity**: Các đối tượng sễ được ánh xạ thành các table trong cơ sở dữ liệu.
   + **dto**: Bao gồm các đối tượng được định dạng theo cấu trúc, dùng để làm đầu vào (input) hoặc đầu ra (output) cho các hàm xử lý.
 
-### **src/main/resource**
-- **static**:
+### **src/main/resources**
+- **static**: Bao gồm các mục như: css, images, img, js, vendor, scss. Các thư mục này dùng để liên kết đến các file html để xử lý hình ảnh và giao diện.
+- **template**:
+  + **admin**: Trong thư mục admin chứa các file html về giao diện cho trang admin khi sử dụng.
+  + **home**: Trong thư mục home chứa các file html về giao diện chính cho người dùng của trang web bán hàng.
+- **application.properties**: Dùng để cấu hình các thuộc tính cho ứng như liên kết đến cơ sở dữ liệu, hibernate, multipart,...
 
   
 
