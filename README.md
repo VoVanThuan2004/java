@@ -27,5 +27,6 @@ Dự án này áp dụng các nguyên tắc, mẫu thiết kế và thực hành
 Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dàng phân tách mối quan tâm. Các folder chính nhu sau:
 ### **scr/main/java**
 - **com.example**:
+- ***config***:
 
 
