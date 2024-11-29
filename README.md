@@ -74,6 +74,7 @@ Mã nguồn được tổ chức thành các tầng riêng biệt để dễ dà
 - Tài khoản admin được khởi tạo mặc định khi khởi chạy ứng dụng:
   + username: **admin**
   + password: **123456**
+- Tài khoản user, có nút Register để đăng ký user.
 
 
 
